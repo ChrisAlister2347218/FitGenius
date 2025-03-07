@@ -49,8 +49,8 @@ export default function Sidebar({ children, name, email  }) {
           `}
           >
             <div className="leading-4">
-            <h4 className="font-semibold">Manoj</h4> {/* Display user's name */}
-              <span className="text-xs text-gray-600">manoj@gmail.com</span> 
+            <h4 className="font-semibold">Chris</h4> {/* Display user's name */}
+              <span className="text-xs text-gray-600">Chris@gmail.com</span> 
             </div>
             <MoreVertical size={20} />
           </div>
